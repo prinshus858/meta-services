@@ -1,0 +1,8 @@
+{
+  "name": "META SERVICES - Digital Agency",
+  "description": "Production-ready website for META SERVICES, a digital agency specializing in high-converting websites and content for ambitious brands.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
